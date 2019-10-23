@@ -12,7 +12,7 @@ WORDLIST=/opt/external/osint/massdns/lists/all.txt   #custom wordlist
 OUTDIR=~/osint           # We will create subfolders for each domain here
 RECON_DOMAIN=$1
 WORDLIST=/opt/SecLists/Discovery/Web-Content/raft-small-words-lowercase.txt
-SLACKHOOK=https://hooks.slack.com/services/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 
+SLACKHOOK=https://hooks.slack.com/services/XXXXXX 
 ########    YAY, ALL DONE WITH VARIABLES    ########
 
 
