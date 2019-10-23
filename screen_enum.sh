@@ -10,7 +10,7 @@
 ########    PLEASE SET UP VARIABLES HERE    ########
 OUTDIR=~/osint           # We will create subfolders for each domain here
 WORDLIST=/opt/external/osint/massdns/lists/all.txt   #custom wordlist
-SLACKHOOK=https://hooks.slack.com/services/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
+SLACKHOOK=https://hooks.slack.com/services/XXXXXXXX
 ########    YAY, ALL DONE WITH VARIABLES    ########
 
 
