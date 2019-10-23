@@ -14,4 +14,4 @@ RECON_DOMAIN=$1
 ./screen_enum.sh $RECON_DOMAIN
 
 #step 3 - Directory enumerate all found subdomains
-./dir_enum.sh coinspot.com.au $RECON_DOMAIN
+./dir_enum.sh $RECON_DOMAIN
